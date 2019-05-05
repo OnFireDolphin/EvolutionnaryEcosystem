@@ -116,11 +116,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Creature.cpp" />
-    <ClCompile Include="GenericCreature.cpp" />
     <ClCompile Include="map.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creature.hpp" />
+    <ClInclude Include="def.hpp" />
     <ClInclude Include="GenericCreature.hpp" />
     <ClInclude Include="map.hpp" />
   </ItemGroup>

@@ -21,9 +21,6 @@
     <ClCompile Include="map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GenericCreature.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Creature.hpp">
@@ -33,6 +30,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="GenericCreature.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="def.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
